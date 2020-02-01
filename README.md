@@ -36,4 +36,4 @@ Akshay SUshir
 This project is licensed under the MIT License
 
 ## Project preview
-![images] (https://github.com/axaysushir/react_lyrics_search_app/blob/master/Picture5.png)
+![imageofproject](https://github.com/axaysushir/react_lyrics_search_app/blob/master/Picture5.png)
