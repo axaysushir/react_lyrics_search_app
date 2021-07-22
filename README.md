@@ -1,6 +1,6 @@
 # LyricFinder App || Refactored using React Hooks
 
-> App that finds song lyrics using React and the Musixmatch API.
+> App that finds song lyrics using React and the Musixmatch API. Just type name of the song and search it shows list of similar song lyrics for that.
 
 ## Musixmatch API
 
